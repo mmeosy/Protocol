@@ -14,7 +14,13 @@
 addd some thing new
 
 new codes 20:58
+<<<<<<< HEAD
 
 21:18
 
 21-24
+=======
+21.39
+
+21:42
+>>>>>>> newcodes
